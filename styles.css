@@ -1,0 +1,44 @@
+body {
+background-image: url("minecraft-Church.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #FFA500;
+    text-align: center;
+    background-color: rgba(0, 100, 255, 0.5);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #FFA500;
+    text-align: center;
+    background-color: rgba(0, 100, 255, 0.5);
+}
+
+h4{
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 100, 255, 0.5);
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+
+.button {
+  float: left;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+.mainmenu {
+    width: 25%
+}
