@@ -2,81 +2,46 @@
 *Theo Martinsson*
 
 ## Bakgrund
-
+### Jag ska gör en Webbsida som ett skol projekt.
 ## Planering
 ### Innehåll
+#### Min hemsida ska innehålla info om min "Kristna Minecraft 
 ### Layout
 ### Färgval
 
-##### Bakgrund - DAWN PINK
+##### Bakgrund - MARTINIQUE
 ###### Användningsområde
-###### HEX - #F0E7DC: ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### HEX - #3C385B: ![alt-text](https://via.placeholder.com/30/3C385B/3C385B?Text=%20 "#3C385B")
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(22,27,36): ![alt-text](https://via.placeholder.com/30/3C385B/3C385B?Text=%20 "#3C385B")
 
-##### Element - DE YORK
+##### Element - DUSTY GRAY
 ###### Användningsområde
-###### HEX - #76c187: ![alt-text](https://via.placeholder.com/20/76c187/76c187?Text=%20 "#76c187")
+###### HEX - #A59299: ![alt-text](https://via.placeholder.com/30/A59299/A59299?Text=%20 "#A59299")
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(65,57,60): ![alt-text](https://via.placeholder.com/30/A59299/A59299?Text=%20 "#A59299")
 
-##### Huvudsaklig färg - VIRIDIAN GREEN
+##### Huvudsaklig färg - AMETHYST SMOKE
 ###### Användningsområde
-###### HEX - #5f877e: ![alt-text](https://via.placeholder.com/20/5f877e/5f877e?Text=%20 "#5f877e")
+###### HEX - #918DAC: ![alt-text](https://via.placeholder.com/30/918DAC/918DAC?Text=%20 "#918DAC")
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(57,55,67): ![alt-text](https://via.placeholder.com/30/918DAC/918DAC?Text=%20 "#918DAC")
 
-##### Beteende - CLAY CREEK
+##### Beteende - ROLLING STONE
 ###### Användningsområde
-###### HEX - #807e61: ![alt-text](https://via.placeholder.com/20/807e61/807e61?Text=%20 "#807e61")
+###### HEX - #747B83: ![alt-text](https://via.placeholder.com/30/747B83/747B83?Text=%20 "#747B83")
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(45,48,51): ![alt-text](https://via.placeholder.com/30/747B83/747B83?Text=%20 "#747B83")
 
 ##### Text -SHARK
 ###### Användningsområde
-###### HEX - #1a1a21: ![alt-text](https://via.placeholder.com/20/1a1a21/1a1a21?Text=%20 "#1a1a21")
+###### HEX - #F1F2EB: ![alt-text](https://via.placeholder.com/30/F1F2EB/F1F2EB?Text=%20 "#F1F2EB")
 
-###### RGB - rgb(241,242,243): ![alt-text](https://via.placeholder.com/20/F0E7DC/F0E7DC?Text=%20 "#F0E7DC")
+###### RGB - rgb(95,95,92): ![alt-text](https://via.placeholder.com/30/F1F2EB/F1F2EB?Text=%20 "#F1F2EB")
 
 ### Typsnitt
 ### Mockup
 ### Tillgänglighet
 
 ## Dokumentation
-### Kod
-```html
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="Author" content="">
-	<meta name="Description" content="">
-	<meta name="keywords" content="">
-	<title>Porkforge</title>
-
-	<!-- +=================+ -->
-	<!-- |    CSS  AREA    | -->
-	<!-- +=================+ -->
-	<!-- |      RESET      | -->
-	<!-- |     VENDOR      | -->
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-	<!-- |     MASTER      | -->
-	<link rel="stylesheet" href="./assets/css/master.css">
-	<!-- |     CUSTOM      | -->
-	<link rel="stylesheet" href="./assets/css/custom.css">
-	<!-- +=================+ -->
-
-	<!-- +=================+ -->
-	<!-- |    ICON AREA    | -->
-	<!-- +=================+ -->
-	<link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
-	<!-- +=================+ -->
-
-	<!-- +=================+ -->
-	<!-- |    FONT AREA    | -->
-	<!-- +=================+ -->
-	<!-- |     CUSTOM      | -->
-	<!-- +=================+ -->
-</head>
-```
-Rep. för lärare i Webbutveckling 1
+### Kod	
