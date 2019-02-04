@@ -2,11 +2,12 @@
 *Theo Martinsson*
 
 ## Bakgrund
-### Jag ska gör en Webbsida som ett skol projekt.
+### Jag ska gör en Webbsida som ett projekt i min skola.
 ## Planering
 ### Innehåll
-#### Min hemsida ska innehålla info om min "Kristna Minecraft 
+#### Min hemsida ska innehålla info om min "Kristna Minecraft blogg"
 ### Layout
+#### Jag ska ha en navbar i toppen av min hemsida och en logga i mitten av webbsidan med en backgrunds bild med lägre opacity i mitten av webbside så den täcker all förutan navbar. Det ska skirvas om min minecraft på min hemsida Med info om mig och hur man kontaktar mig.
 ### Färgval
 
 ##### Bakgrund - MARTINIQUE
@@ -33,13 +34,14 @@
 
 ###### RGB - rgb(45,48,51): ![alt-text](https://via.placeholder.com/30/747B83/747B83?Text=%20 "#747B83")
 
-##### Text -SHARK
+##### Text - GREEN WHITE
 ###### Användningsområde
 ###### HEX - #F1F2EB: ![alt-text](https://via.placeholder.com/30/F1F2EB/F1F2EB?Text=%20 "#F1F2EB")
 
 ###### RGB - rgb(95,95,92): ![alt-text](https://via.placeholder.com/30/F1F2EB/F1F2EB?Text=%20 "#F1F2EB")
 
 ### Typsnitt
+#### Roboto, Sans Serif
 ### Mockup
 ### Tillgänglighet
 
